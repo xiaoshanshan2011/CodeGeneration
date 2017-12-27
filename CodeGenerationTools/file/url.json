@@ -1,0 +1,9 @@
+{
+  "data": [
+    {
+      "type": "get",
+      "name": "版本升级信息",
+      "url": "api/upgradeApk"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "pakege": "com.app.sanbao",
+  "author": "chenjunshan",
+  "data": [
+    {
+      "path": "ui/glb/fragment/menu",
+      "menu": [
+        {
+          "isList": false,
+          "title": "流转钱包转账",
+          "name": "lzqbzz"
+        }
+      ]
+    }
+  ]
+}
